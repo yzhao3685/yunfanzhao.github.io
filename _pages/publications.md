@@ -1,16 +1,16 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
+permalink: /research/
+title: "Research papers"
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+[Balanced Off-Policy Evaluation for Personalized Pricing](https://arxiv.org/abs/2302.12736), with Adam N. Elmachtoub and Vishal Gupta. AISTATS 2023, to appear. 
 
-{% include base_path %}
+[Nuances in Margin Conditions Determine Gains in Active Learning](https://arxiv.org/abs/2110.08418), with Samory Kpotufe and Gan Yuan. AISTATS, 2022.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[Efficient and Perfect Domination on Archimedean Lattices](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v29i3p60), with John C. Wierman and Thomas G. Marge. Electronic Journal of Combinatorics, 2022.
+
+[Implicit Two-Tower Policies](https://arxiv.org/abs/2208.01191), with Qingkai Pan, Krzysztof Choromanski, Deepali Jain, and Vikas Sindhwani. Under Review
+
+[Efficient Graph Field Integrators Meet Point Clouds](https://arxiv.org/abs/2302.00942), with Krzysztof Choromanski, Arijit Sehanobish, and Han Lin, et al. Under Review.
+
+Estimate-Then-Optimize Versus Integrated-Estimation-Optimization: A Stochastic Dominance Perspective, with Adam N. Elmachtoub, Henry Lam, and Haofeng Zhang. Under Review. 
