@@ -14,4 +14,6 @@ I am mainly interested in (i) policy evaluation and learning (ii) the intersecti
 
 You can contact me at yz3685[at]columbia[dot]edu
 
+You can find my CV [here](https://github.com/yzhao3685/yzhao3685.github.io/tree/master/files/yunfan_zhao_cv.pdf)
+
 
