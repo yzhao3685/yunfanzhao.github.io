@@ -1,9 +1,7 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: "Teaching at Columbia University "
 ---
-
-# Columbia University 
 
 Machine Learning for OR&FE - Spring 2022
 
