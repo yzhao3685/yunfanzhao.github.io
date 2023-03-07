@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching at Columbia University "
+title: "TA Experience at Columbia University "
 ---
 
 Machine Learning for OR&FE - Spring 2022
