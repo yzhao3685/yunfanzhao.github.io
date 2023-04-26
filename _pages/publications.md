@@ -3,9 +3,9 @@ permalink: /research/
 title: "Research Papers"
 ---
 
-[Efficient Graph Field Integrators Meet Point Clouds](https://arxiv.org/abs/2302.00942), with Krzysztof Choromanski, Arijit Sehanobish, and Han Lin, et al. NeurIPS 2023. Forthcoming.
+[Efficient Graph Field Integrators Meet Point Clouds](https://arxiv.org/abs/2302.00942), with Krzysztof Choromanski, Arijit Sehanobish, and Han Lin, et al. NeurIPS, 2023. Forthcoming.
 
-[Balanced Off-Policy Evaluation for Personalized Pricing](https://arxiv.org/abs/2302.12736), with Adam N. Elmachtoub and Vishal Gupta. AISTATS 2023. 
+[Balanced Off-Policy Evaluation for Personalized Pricing](https://arxiv.org/abs/2302.12736), with Adam N. Elmachtoub and Vishal Gupta. AISTATS, 2023. 
 
 [Nuances in Margin Conditions Determine Gains in Active Learning](https://arxiv.org/abs/2110.08418), with Samory Kpotufe and Gan Yuan. AISTATS, 2022.
 
