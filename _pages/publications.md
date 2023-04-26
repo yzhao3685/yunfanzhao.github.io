@@ -3,14 +3,16 @@ permalink: /research/
 title: "Research Papers"
 ---
 
-[Balanced Off-Policy Evaluation for Personalized Pricing](https://arxiv.org/abs/2302.12736), with Adam N. Elmachtoub and Vishal Gupta. AISTATS 2023, to appear. 
+[Efficient Graph Field Integrators Meet Point Clouds](https://arxiv.org/abs/2302.00942), with Krzysztof Choromanski, Arijit Sehanobish, and Han Lin, et al. NeurIPS 2023. Forthcoming.
+
+[Balanced Off-Policy Evaluation for Personalized Pricing](https://arxiv.org/abs/2302.12736), with Adam N. Elmachtoub and Vishal Gupta. AISTATS 2023. 
 
 [Nuances in Margin Conditions Determine Gains in Active Learning](https://arxiv.org/abs/2110.08418), with Samory Kpotufe and Gan Yuan. AISTATS, 2022.
 
 [Efficient and Perfect Domination on Archimedean Lattices](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v29i3p60), with John C. Wierman and Thomas G. Marge. Electronic Journal of Combinatorics, 2022.
 
-[Implicit Two-Tower Policies](https://arxiv.org/abs/2208.01191), with Qingkai Pan, Krzysztof Choromanski, Deepali Jain, and Vikas Sindhwani. Under Review
+[Estimate-Then-Optimize Versus Integrated-Estimation-Optimization: A Stochastic Dominance Perspective](https://arxiv.org/abs/2304.06833), with Adam N. Elmachtoub, Henry Lam, and Haofeng Zhang. Under Review. 
 
-[Efficient Graph Field Integrators Meet Point Clouds](https://arxiv.org/abs/2302.00942), with Krzysztof Choromanski, Arijit Sehanobish, and Han Lin, et al. Under Review.
+[Implicit Two-Tower Policies](https://arxiv.org/abs/2208.01191), with Qingkai Pan, Krzysztof Choromanski, Deepali Jain, and Vikas Sindhwani.
 
-Estimate-Then-Optimize Versus Integrated-Estimation-Optimization: A Stochastic Dominance Perspective, with Adam N. Elmachtoub, Henry Lam, and Haofeng Zhang. Under Review. 
+
