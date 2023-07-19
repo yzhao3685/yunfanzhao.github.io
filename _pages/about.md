@@ -12,7 +12,7 @@ I am a postdoc at Harvard Center for Research on Computation and Society, advise
 
 I am mainly interested in (i) policy evaluation and learning (ii) the intersection of optimization and machine learning. I also worked on active learning and combinatorics. 
 
-You can contact me at yz3685[at]columbia[dot]edu
+You can contact me at yunfanzhao[at]fas[dot]harvard[dot]edu 
 
 You can find my CV [here](https://yzhao3685.github.io/files/yunfan_zhao_cv.pdf)
 
