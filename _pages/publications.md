@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research Papers"
 ---
 
-[Efficient Graph Field Integrators Meet Point Clouds](https://arxiv.org/abs/2302.00942), with Krzysztof Choromanski, Arijit Sehanobish, and Han Lin, et al. ICML, 2023. Forthcoming.
+[Efficient Graph Field Integrators Meet Point Clouds](https://arxiv.org/abs/2302.00942), with Krzysztof Choromanski, Arijit Sehanobish, and Han Lin, et al. ICML, 2023..
 
 [Balanced Off-Policy Evaluation for Personalized Pricing](https://arxiv.org/abs/2302.12736), with Adam N. Elmachtoub and Vishal Gupta. AISTATS, 2023. 
 
