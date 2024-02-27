@@ -3,6 +3,8 @@ permalink: /research/
 title: "Research Papers"
 ---
 
+[A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health](https://arxiv.org/abs/2402.14807), with Nikhil Behari, Edwin Zhang, Dheeraj Nagaraj, Aparna Taneja and Milind Tambe. Under Review.
+
 [Towards Zero Shot Learning in Restless Multi-armed Bandits](https://arxiv.org/abs/2310.14526), with Nikhil Behari, Edward Hughes, Edwin Zhang, Dheeraj Nagaraj, Karl Tuyls, Aparna Taneja and Milind Tambe. Under Review. 
 
 [Scalable Neural Network Kernels](https://arxiv.org/abs/2310.13225), with Arijit Sehanobish, Krzysztof Choromanski, Avinava Dubey, and Valerii Likhosherstov. ICLR 2024. 
