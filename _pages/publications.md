@@ -3,9 +3,9 @@ permalink: /research/
 title: "Research Papers"
 ---
 
-[A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health](https://arxiv.org/abs/2402.14807). Nikhil Behari*, Edwin Zhang*, Yunfan Zhao, Dheeraj Nagaraj, Aparna Taneja, and Milind Tambe. Under Review.
+[A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health](https://arxiv.org/abs/2402.14807). Nikhil Behari^*, Edwin Zhang^*, Yunfan Zhao, Dheeraj Nagaraj, Aparna Taneja, and Milind Tambe. Under Review.
 
-[Group Fairness in Predict-Then-Optimize Settings for Restless Bandits]. Shresth Verma*, Yunfan Zhao*, Sanket Shah, Niclas Boehmer, Aparna Taneja, and Milind Tambe. UAI 2024 (oral presentation). 
+Group Fairness in Predict-Then-Optimize Settings for Restless Bandits. Shresth Verma*, Yunfan Zhao*, Sanket Shah, Niclas Boehmer, Aparna Taneja, and Milind Tambe. UAI 2024 (oral presentation). 
 
 [Towards Zero Shot Learning in Restless Multi-armed Bandits](https://arxiv.org/abs/2310.14526). Yunfan Zhao*, Nikhil Behari*, Edward Hughes, Edwin Zhang, Dheeraj Nagaraj, Karl Tuyls, Aparna Taneja, and Milind Tambe. IJCAI 2024. 
 
