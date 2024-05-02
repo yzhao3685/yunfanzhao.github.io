@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postdoc at Harvard University, advised by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe). I did my Ph.D. in Operations Research at Columbia University, advised by [Prof. Adam Elmachtoub](http://www.columbia.edu/~ae2516/). I received my B.S. / M.S. in Applied Mathematics and Statistics from Johns Hopkins University.  
 
-I am mainly interested in (i) reinforcement learning (ii) the intersection of optimization and machine learning. 
+I mainly work on (i) LLMs and foundation models (ii) reinforcement learning (iii) the intersection of optimization and machine learning. 
 
 You can contact me at yunfanzhao[at]fas[dot]harvard[dot]edu 
 
