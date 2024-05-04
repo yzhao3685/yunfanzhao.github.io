@@ -7,7 +7,8 @@ title: "Research Papers"
 
 Group Fairness in Predict-Then-Optimize Settings for Restless Bandits. Shresth Verma, Yunfan Zhao, Sanket Shah, Niclas Boehmer, Aparna Taneja, and Milind Tambe. UAI 2024 (oral presentation). 
 
-[Towards Zero Shot Learning in Restless Multi-armed Bandits](https://arxiv.org/abs/2310.14526). Yunfan Zhao, Nikhil Behari, Edward Hughes, Edwin Zhang, Dheeraj Nagaraj, Karl Tuyls, Aparna Taneja, and Milind Tambe. IJCAI 2024. 
+[Towards a Pretrained Model for Restless Bandits via Multi-arm Generalization
+](https://arxiv.org/abs/2310.14526). Yunfan Zhao, Nikhil Behari, Edward Hughes, Edwin Zhang, Dheeraj Nagaraj, Karl Tuyls, Aparna Taneja, and Milind Tambe. IJCAI 2024. 
 
 [Scalable Neural Network Kernels](https://arxiv.org/abs/2310.13225) Arijit Sehanobish, Krzysztof Choromanski, Yunfan Zhao, Avinava Dubey, and Valerii Likhosherstov. ICLR 2024. 
 
