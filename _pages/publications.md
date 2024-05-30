@@ -18,13 +18,15 @@ Conference Papers:
 [Towards a Pretrained Model for Restless Bandits via Multi-arm Generalization
 ](https://arxiv.org/abs/2310.14526). Yunfan Zhao, Nikhil Behari, Edward Hughes, Edwin Zhang, Dheeraj Nagaraj, Karl Tuyls, Aparna Taneja, and Milind Tambe. IJCAI 2024. 
 
-Group Fairness in Predict-Then-Optimize Settings for Restless Bandits. Shresth Verma, Yunfan Zhao, Sanket Shah, Niclas Boehmer, Aparna Taneja, and Milind Tambe. UAI 2024 (oral presentation). 
+[Group Fairness in Predict-Then-Optimize Settings for Restless Bandits](https://teamcore.seas.harvard.edu/publications/group-fairness-predict-then-optimize-settings-restless-bandits). Shresth Verma, Yunfan Zhao, Sanket Shah, Niclas Boehmer, Aparna Taneja, and Milind Tambe. UAI 2024 (oral presentation). 
 
 [Scalable Neural Network Kernels](https://arxiv.org/abs/2310.13225) Arijit Sehanobish, Krzysztof Choromanski, Yunfan Zhao, Avinava Dubey, and Valerii Likhosherstov. ICLR 2024. 
 
 [A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health](https://arxiv.org/abs/2402.14807). Nikhil Behari, Edwin Zhang, Yunfan Zhao, Dheeraj Nagaraj, Aparna Taneja, and Milind Tambe. Under Review.
 
 [Implicit Two-Tower Policies](https://arxiv.org/abs/2208.01191). Yunfan Zhao, Qingkai Pan, Krzysztof Choromanski, Deepali Jain, and Vikas Sindhwani. ICLR 2024 PML4LRS Workshop 
+
+[Estimate-Then-Optimize Versus Integrated-Estimation-Optimization: A Stochastic Dominance Perspective](https://www.dropbox.com/scl/fi/th8r3fcxurxij1iji7fmm/IOS_2024_paper_446.pdf?rlkey=jtviv5h3m4rdv7yye6tonebsg&e=1&dl=0). Adam N. Elmachtoub, Henry Lam, Haofeng Zhang, and Yunfan Zhao (alphabetical order). IOS 2024. 
 
 [Efficient Graph Field Integrators Meet Point Clouds](https://arxiv.org/abs/2302.00942). Krzysztof Choromanski, Arijit Sehanobish, Han Lin, Yunfan Zhao, et al. ICML, 2023.
 
