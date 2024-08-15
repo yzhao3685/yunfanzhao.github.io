@@ -20,6 +20,8 @@ Conference Papers:
 
 [Group Fairness in Predict-Then-Optimize Settings for Restless Bandits](https://teamcore.seas.harvard.edu/publications/group-fairness-predict-then-optimize-settings-restless-bandits). Shresth Verma, Yunfan Zhao, Sanket Shah, Niclas Boehmer, Aparna Taneja, and Milind Tambe. UAI 2024 (oral presentation). 
 
+[The Bandit Whisperer: Communication Learning for Restless Bandits](https://arxiv.org/abs/2408.05686). Yunfan Zhao, Tonghan Wang, Dheeraj Nagaraj, Aparna Taneja, Milind Tambe. Under Review. 
+
 [Scalable Neural Network Kernels](https://arxiv.org/abs/2310.13225) Arijit Sehanobish, Krzysztof Choromanski, Yunfan Zhao, Avinava Dubey, and Valerii Likhosherstov. ICLR 2024. 
 
 [A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health](https://arxiv.org/abs/2402.14807). Nikhil Behari, Edwin Zhang, Yunfan Zhao, Dheeraj Nagaraj, Aparna Taneja, and Milind Tambe. Under Review.
