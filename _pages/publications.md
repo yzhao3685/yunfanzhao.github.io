@@ -11,20 +11,22 @@ Journal Articles:
 
 [Estimate-Then-Optimize Versus Integrated-Estimation-Optimization: A Stochastic Dominance Perspective](https://arxiv.org/abs/2304.06833). Adam N. Elmachtoub, Henry Lam, Haofeng Zhang, and Yunfan Zhao (alphabetical order). Major Revision, Operations Research. 
 
+Conference Papers (under review): 
 
+[The Bandit Whisperer: Communication Learning for Restless Bandits](https://arxiv.org/abs/2408.05686). Yunfan Zhao, Tonghan Wang, Dheeraj Nagaraj, Aparna Taneja, Milind Tambe.
 
-Conference Papers: 
+[A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health](https://arxiv.org/abs/2402.14807). Nikhil Behari, Edwin Zhang, Yunfan Zhao, Dheeraj Nagaraj, Aparna Taneja, and Milind Tambe. 
+
+[Improving the prediction of individual engagement in recommendations using cognitive models](https://arxiv.org/pdf/2408.16147). Roderick Seow, Yunfan Zhao, Duncan Wood, Milind Tambe, Cleotilde Gonzalez.
+
+Conference Papers (accepted): 
 
 [Towards a Pretrained Model for Restless Bandits via Multi-arm Generalization
 ](https://arxiv.org/abs/2310.14526). Yunfan Zhao, Nikhil Behari, Edward Hughes, Edwin Zhang, Dheeraj Nagaraj, Karl Tuyls, Aparna Taneja, and Milind Tambe. IJCAI 2024. 
 
 [Group Fairness in Predict-Then-Optimize Settings for Restless Bandits](https://teamcore.seas.harvard.edu/publications/group-fairness-predict-then-optimize-settings-restless-bandits). Shresth Verma, Yunfan Zhao, Sanket Shah, Niclas Boehmer, Aparna Taneja, and Milind Tambe. UAI 2024 (oral presentation). 
 
-[The Bandit Whisperer: Communication Learning for Restless Bandits](https://arxiv.org/abs/2408.05686). Yunfan Zhao, Tonghan Wang, Dheeraj Nagaraj, Aparna Taneja, Milind Tambe. Under Review. 
-
 [Scalable Neural Network Kernels](https://arxiv.org/abs/2310.13225) Arijit Sehanobish, Krzysztof Choromanski, Yunfan Zhao, Avinava Dubey, and Valerii Likhosherstov. ICLR 2024. 
-
-[A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health](https://arxiv.org/abs/2402.14807). Nikhil Behari, Edwin Zhang, Yunfan Zhao, Dheeraj Nagaraj, Aparna Taneja, and Milind Tambe. Under Review.
 
 [Implicit Two-Tower Policies](https://arxiv.org/abs/2208.01191). Yunfan Zhao, Qingkai Pan, Krzysztof Choromanski, Deepali Jain, and Vikas Sindhwani. ICLR 2024 PML4LRS Workshop 
 
