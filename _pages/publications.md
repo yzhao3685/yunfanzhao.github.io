@@ -17,7 +17,6 @@ Conference Papers (under review):
 
 [A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health](https://arxiv.org/abs/2402.14807). Nikhil Behari, Edwin Zhang, Yunfan Zhao, Dheeraj Nagaraj, Aparna Taneja, and Milind Tambe. 
 
-[Improving the prediction of individual engagement in recommendations using cognitive models](https://arxiv.org/pdf/2408.16147). Roderick Seow, Yunfan Zhao, Duncan Wood, Milind Tambe, Cleotilde Gonzalez.
 
 Conference Papers (accepted): 
 
@@ -28,7 +27,9 @@ Conference Papers (accepted):
 
 [Scalable Neural Network Kernels](https://arxiv.org/abs/2310.13225) Arijit Sehanobish, Krzysztof Choromanski, Yunfan Zhao, Avinava Dubey, and Valerii Likhosherstov. ICLR 2024. 
 
-[Implicit Two-Tower Policies](https://arxiv.org/abs/2208.01191). Yunfan Zhao, Qingkai Pan, Krzysztof Choromanski, Deepali Jain, and Vikas Sindhwani. ICLR 2024 PML4LRS Workshop 
+[Implicit Two-Tower Policies](https://arxiv.org/abs/2208.01191). Yunfan Zhao, Qingkai Pan, Krzysztof Choromanski, Deepali Jain, and Vikas Sindhwani. ICLR 2024 PML4LRS Workshop.
+
+[Improving the prediction of individual engagement in recommendations using cognitive models](https://arxiv.org/pdf/2408.16147). Roderick Seow, Yunfan Zhao, Duncan Wood, Milind Tambe, Cleotilde Gonzalez. ACM RecSys 2024 Workshop on Health Recommender Systems.
 
 [Estimate-Then-Optimize Versus Integrated-Estimation-Optimization: A Stochastic Dominance Perspective](https://www.dropbox.com/scl/fi/th8r3fcxurxij1iji7fmm/IOS_2024_paper_446.pdf?rlkey=jtviv5h3m4rdv7yye6tonebsg&e=1&dl=0). Adam N. Elmachtoub, Henry Lam, Haofeng Zhang, and Yunfan Zhao (alphabetical order). IOS 2024. 
 
