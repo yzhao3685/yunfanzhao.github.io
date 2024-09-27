@@ -13,8 +13,6 @@ University, advised by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/ta
 
 I mainly work on (i) LLMs and foundation models (ii) reinforcement learning (iii) the intersection of optimization and machine learning. 
 
-You can contact me at yunfanzhao[at]fas[dot]harvard[dot]edu 
-
-You can find my CV [here](https://yzhao3685.github.io/files/yunfan_zhao_cv.pdf)
+You can contact me at yz3685[at]columbia[dot]edu 
 
 

@@ -11,14 +11,12 @@ Journal Articles:
 
 [Estimate-Then-Optimize Versus Integrated-Estimation-Optimization: A Stochastic Dominance Perspective](https://arxiv.org/abs/2304.06833). Adam N. Elmachtoub, Henry Lam, Haofeng Zhang, and Yunfan Zhao (alphabetical order). Major Revision, Operations Research. 
 
-Conference Papers (under review): 
 
-[The Bandit Whisperer: Communication Learning for Restless Bandits](https://arxiv.org/abs/2408.05686). Yunfan Zhao, Tonghan Wang, Dheeraj Nagaraj, Aparna Taneja, Milind Tambe.
+Conference Papers: 
 
-[A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health](https://arxiv.org/abs/2402.14807). Nikhil Behari, Edwin Zhang, Yunfan Zhao, Dheeraj Nagaraj, Aparna Taneja, and Milind Tambe. 
+[The Bandit Whisperer: Communication Learning for Restless Bandits](https://arxiv.org/abs/2408.05686). Yunfan Zhao, Tonghan Wang, Dheeraj Nagaraj, Aparna Taneja, Milind Tambe. Under Review. 
 
-
-Conference Papers (accepted): 
+[A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health](https://arxiv.org/abs/2402.14807). Nikhil Behari, Edwin Zhang, Yunfan Zhao, Dheeraj Nagaraj, Aparna Taneja, and Milind Tambe. NeurIPS 2024. 
 
 [Towards a Pretrained Model for Restless Bandits via Multi-arm Generalization
 ](https://arxiv.org/abs/2310.14526). Yunfan Zhao, Nikhil Behari, Edward Hughes, Edwin Zhang, Dheeraj Nagaraj, Karl Tuyls, Aparna Taneja, and Milind Tambe. IJCAI 2024. 
