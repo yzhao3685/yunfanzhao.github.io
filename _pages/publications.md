@@ -16,6 +16,8 @@ Conference Papers:
 
 [The Bandit Whisperer: Communication Learning for Restless Bandits](https://arxiv.org/abs/2408.05686). Yunfan Zhao, Tonghan Wang, Dheeraj Nagaraj, Aparna Taneja, Milind Tambe. Under Review. 
 
+[Optimizing Vital Sign Monitoring in Resource-Constrained Maternal Care: An RL-Based Restless Bandit Approach](https://arxiv.org/pdf/2410.08377). Niclas Boehmer, Yunfan Zhao, Guojun Xiong, Paula Rodriguez-Diaz, Paola Del Cueto Cibrian, Joseph Ngonzi, Adeline Boatin, Milind Tambe. Under Review.
+
 [A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health](https://arxiv.org/abs/2402.14807). Nikhil Behari, Edwin Zhang, Yunfan Zhao, Dheeraj Nagaraj, Aparna Taneja, and Milind Tambe. NeurIPS 2024. 
 
 [Towards a Pretrained Model for Restless Bandits via Multi-arm Generalization
