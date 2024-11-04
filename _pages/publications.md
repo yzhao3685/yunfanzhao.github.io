@@ -9,14 +9,14 @@ Journal Articles:
 
 [Perfect domination ratios of Archimedean lattices](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v29i3p60). Yunfan Zhao, John C. Wierman, and Thomas G. Marge. Electronic Journal of Combinatorics, 2022.
 
-[Estimate-Then-Optimize Versus Integrated-Estimation-Optimization: A Stochastic Dominance Perspective](https://arxiv.org/abs/2304.06833). Adam N. Elmachtoub, Henry Lam, Haofeng Zhang, and Yunfan Zhao (alphabetical order). Major Revision, Operations Research. 
+[Estimate-Then-Optimize Versus Integrated-Estimation-Optimization: A Stochastic Dominance Perspective](https://arxiv.org/abs/2304.06833). Adam N. Elmachtoub, Henry Lam, Haofeng Zhang, and Yunfan Zhao (alphabetical order). Under Revision, Operations Research. 
 
 
 Conference Papers: 
 
 [The Bandit Whisperer: Communication Learning for Restless Bandits](https://arxiv.org/abs/2408.05686). Yunfan Zhao, Tonghan Wang, Dheeraj Nagaraj, Aparna Taneja, Milind Tambe. Under Review. 
 
-[Optimizing Vital Sign Monitoring in Resource-Constrained Maternal Care: An RL-Based Restless Bandit Approach](https://arxiv.org/pdf/2410.08377). Niclas Boehmer, Yunfan Zhao, Guojun Xiong, Paula Rodriguez-Diaz, Paola Del Cueto Cibrian, Joseph Ngonzi, Adeline Boatin, Milind Tambe. Under Review.
+[Optimizing Vital Sign Monitoring in Resource-Constrained Maternal Care: An RL-Based Restless Bandit Approach](https://arxiv.org/pdf/2410.08377). Niclas Boehmer, Yunfan Zhao, Guojun Xiong, Paula Rodriguez-Diaz, Paola Del Cueto Cibrian, Joseph Ngonzi, Adeline Boatin, Milind Tambe. IAAI 2025.
 
 [A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health](https://arxiv.org/abs/2402.14807). Nikhil Behari, Edwin Zhang, Yunfan Zhao, Dheeraj Nagaraj, Aparna Taneja, and Milind Tambe. NeurIPS 2024. 
 
