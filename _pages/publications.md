@@ -14,7 +14,9 @@ Journal Articles:
 
 Conference Papers: 
 
-[The Bandit Whisperer: Communication Learning for Restless Bandits](https://arxiv.org/abs/2408.05686). Yunfan Zhao, Tonghan Wang, Dheeraj Nagaraj, Aparna Taneja, Milind Tambe. Under Review. 
+[The Bandit Whisperer: Communication Learning for Restless Bandits](https://arxiv.org/abs/2408.05686). Yunfan Zhao, Tonghan Wang, Dheeraj Nagaraj, Aparna Taneja, Milind Tambe. AAAI 2025. 
+
+[Towards Foundation-model-based Multiagent System to Accelerate AI for Social Impact] Yunfan Zhao, Niclas Boehmer, Aparna Taneja, Milind Tambe. Under Review. 
 
 [Optimizing Vital Sign Monitoring in Resource-Constrained Maternal Care: An RL-Based Restless Bandit Approach](https://arxiv.org/pdf/2410.08377). Niclas Boehmer, Yunfan Zhao, Guojun Xiong, Paula Rodriguez-Diaz, Paola Del Cueto Cibrian, Joseph Ngonzi, Adeline Boatin, Milind Tambe. IAAI 2025.
 
